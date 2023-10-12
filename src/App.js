@@ -31,7 +31,7 @@ function App() {
                 <h1 style={{ color: "#1E0E62" }} className="text-center mt-5">Sign Up Now</h1>
                 <input className=" form-control input mt-4" placeholder="Your email" />
                 <input className=" form-control input mt-4" placeholder="Your password" />
-                <input type="checkbox" className="mt-4 checkbox" /><span> I agree to the terma of services</span>
+                <input type="checkbox" className="mt-4 checkbox" /><span> I agree to the terms of services</span>
                 <br />
                 <b className="btn btnInCard mt-4 pt-2">Sign in</b>
                 <div className="d-flex mt-3">
